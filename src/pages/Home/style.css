@@ -1,0 +1,7 @@
+.button_group,
+    button {
+        padding: 0;
+        margin: 0px;
+        height: 50vh;
+        /*background: rgba(150, 150, 150, 0.1);*/
+    }
